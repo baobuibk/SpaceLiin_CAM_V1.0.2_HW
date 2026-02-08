@@ -253,6 +253,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=Project Outputs for CAM_v130\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=Project Outputs for CAM_v130\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for CAM_SEN_V100\[L1] TOP.gbr
 DItemRevisionGUID=
@@ -270,418 +304,514 @@ DocumentPath=Project Outputs for CAM_v121\[L1] TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for CAM_SEN_V100\[L2] GND.gbr
+DocumentPath=Project Outputs for CAM_v130\[L1] TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for CAM_v101\[L2] GND.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\[L2] GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for CAM_v120\[L2] GND.gbr
+DocumentPath=Project Outputs for CAM_v101\[L2] GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for CAM_v121\[L2] GND.gbr
+DocumentPath=Project Outputs for CAM_v120\[L2] GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for CAM_SEN_V100\[L3] POWER.gbr
+DocumentPath=Project Outputs for CAM_v121\[L2] GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for CAM_v101\[L3] SIGNAL.gbr
+DocumentPath=Project Outputs for CAM_v130\[L2] GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for CAM_v120\[L3] SIGNAL.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\[L3] POWER.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for CAM_v121\[L3] SIGNAL.gbr
+DocumentPath=Project Outputs for CAM_v101\[L3] SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for CAM_SEN_V100\[L4] BOTTOM.gbr
+DocumentPath=Project Outputs for CAM_v120\[L3] SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for CAM_v101\[L4] POWER.gbr
+DocumentPath=Project Outputs for CAM_v121\[L3] SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for CAM_v120\[L4] POWER.gbr
+DocumentPath=Project Outputs for CAM_v130\[L3] SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for CAM_v121\[L4] POWER.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\[L4] BOTTOM.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for CAM_v101\[L5] GND 2.gbr
+DocumentPath=Project Outputs for CAM_v101\[L4] POWER.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for CAM_v120\[L5] GND 2.gbr
+DocumentPath=Project Outputs for CAM_v120\[L4] POWER.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for CAM_v121\[L5] GND 2.gbr
+DocumentPath=Project Outputs for CAM_v121\[L4] POWER.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for CAM_v101\[L6] BOTTOM.gbr
+DocumentPath=Project Outputs for CAM_v130\[L4] POWER.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for CAM_v120\[L6] BOTTOM.gbr
+DocumentPath=Project Outputs for CAM_v101\[L5] GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for CAM_v121\[L6] BOTTOM.gbr
+DocumentPath=Project Outputs for CAM_v120\[L5] GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.DRR
+DocumentPath=Project Outputs for CAM_v121\[L5] GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.EXTREP
+DocumentPath=Project Outputs for CAM_v130\[L5] GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.LDP
+DocumentPath=Project Outputs for CAM_v101\[L6] BOTTOM.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.REP
+DocumentPath=Project Outputs for CAM_v120\[L6] BOTTOM.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.TXT
+DocumentPath=Project Outputs for CAM_v121\[L6] BOTTOM.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.xls
+DocumentPath=Project Outputs for CAM_v130\[L6] BOTTOM.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.REP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Drawing_1.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Drillmap_1.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100.xls
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Keep-out.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Legend_Bot.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Legend_Top.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Pads_Bot.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Pads_Top.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Paste_Bot.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Paste_Top.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Profile.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Soldermask_Top.gbr
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.DRR
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.EXTREP
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.LDP
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.REP
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.TXT
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.xls
+DocumentPath=Project Outputs for CAM_SEN_V100\CAM_SEN_V100_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Drawing_1.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Drillmap_1.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Keep-out.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Legend_Bot.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.REP
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Legend_Top.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Pads_Bot.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101.xls
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Pads_Top.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Paste_Bot.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Paste_Top.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Profile.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Soldermask_Top.gbr
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.DRR
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.EXTREP
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.LDP
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.REP
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.TXT
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.xls
+DocumentPath=Project Outputs for CAM_v101\CAM_SEN_V101_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Drawing_1.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Drillmap_1.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Keep-out.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Legend_Bot.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.REP
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Legend_Top.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Pads_Bot.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120.xls
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Pads_Top.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Paste_Bot.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Paste_Top.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Profile.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Soldermask_Top.gbr
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.DRR
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.EXTREP
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.LDP
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.REP
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.TXT
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.xls
+DocumentPath=Project Outputs for CAM_v120\CAM_SEN_V120_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Drawing_1.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Drillmap_1.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Keep-out.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Legend_Bot.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.REP
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Legend_Top.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Pads_Bot.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121.xls
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Pads_Top.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Paste_Bot.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Paste_Top.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Profile.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Soldermask_Top.gbr
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for CAM_SEN_V100\Design Rule Check - CAM_SEN_V100.html
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for CAM_v101\Design Rule Check - CAM_SEN_V101.html
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for CAM_v120\Design Rule Check - CAM_SEN_V120.html
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for CAM_v121\Design Rule Check - CAM_SEN_V121.html
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for CAM_v130\Design Rule Check - CAM_SEN_V130.html
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
+DocumentPath=Project Outputs for CAM_v121\CAM_SEN_V121_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Outputs for CAM_v101\Pick Place for CAM_SEN_V101.csv
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Project Outputs for CAM_v120\Pick Place for CAM_SEN_V120.csv
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument108]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130.REP
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130.xls
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for CAM_v130\CAM_SEN_V130_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for CAM_SEN_V100\Design Rule Check - CAM_SEN_V100.html
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for CAM_v101\Design Rule Check - CAM_SEN_V101.html
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for CAM_v120\Design Rule Check - CAM_SEN_V120.html
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for CAM_v121\Design Rule Check - CAM_SEN_V121.html
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for CAM_v130\Design Rule Check - CAM_SEN_V130.html
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for CAM_v101\Pick Place for CAM_SEN_V101.csv
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for CAM_v120\Pick Place for CAM_SEN_V120.csv
+DItemRevisionGUID=
+
+[GeneratedDocument132]
 DocumentPath=Project Outputs for CAM_v121\Pick Place for CAM_SEN_V121.csv
 DItemRevisionGUID=
 
@@ -939,75 +1069,75 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-Configuration1_Name1=ForceUpdateSettings
-Configuration1_Item1=False
-Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\1_Altium_Project\10_CAM_V121\01_DESIGN\CAM_SEN_V121.PcbDoc
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=17|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=False|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=ComponentPlacement|Column6Title=Orientation|Column6Visible=False|Column7Name=CopperOrientation|Column7Title=Copper Orientation|Column7Visible=False|Column8Name=Weight|Column8Title=Weight|Column8Visible=False|Column9Name=LossTangent|Column9Title=Df|Column9Visible=False|Column10Name=Material.Constructions|Column10Title=Constructions|Column10Visible=False|Column11Name=Material.Resin|Column11Title=Resin|Column11Visible=False|Column12Name=Material.Frequency|Column12Title=Frequency|Column12Visible=False|Column13Name=Material.GlassTransTemp|Column13Title=GlassTransTemp|Column13Visible=False|Column14Name=Material.Manufacturer|Column14Title=Manufacturer|Column14Visible=False|Column15Name=Process|Column15Title=Process|Column15Visible=False|Column16Name=Material.Description|Column16Title=Description|Column16Visible=False|DocumentPath=D:\1_Altium_Project\18_CAM_V130\SpaceLiin_CAM_V1.0.2_HW\01_DESIGN\CAM_SEN_V130.PcbDoc
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\1_Altium_Project\18_CAM_V130\SpaceLiin_CAM_V1.0.2_HW\01_DESIGN\CAM_SEN_V130.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration9_Name1=ForceUpdateSettings
-Configuration9_Item1=False
-Configuration9_Name2=OutputConfigurationParameter1
-Configuration9_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=17|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=False|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=ComponentPlacement|Column6Title=Orientation|Column6Visible=False|Column7Name=CopperOrientation|Column7Title=Copper Orientation|Column7Visible=False|Column8Name=Weight|Column8Title=Weight|Column8Visible=False|Column9Name=LossTangent|Column9Title=Df|Column9Visible=False|Column10Name=Material.Constructions|Column10Title=Constructions|Column10Visible=False|Column11Name=Material.Resin|Column11Title=Resin|Column11Visible=False|Column12Name=Material.Frequency|Column12Title=Frequency|Column12Visible=False|Column13Name=Material.GlassTransTemp|Column13Title=GlassTransTemp|Column13Visible=False|Column14Name=Material.Manufacturer|Column14Title=Manufacturer|Column14Visible=False|Column15Name=Process|Column15Title=Process|Column15Visible=False|Column16Name=Material.Description|Column16Title=Description|Column16Visible=False|DocumentPath=D:\1_Altium_Project\10_CAM_V121\01_DESIGN\CAM_SEN_V121.PcbDoc
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Final
-OutputName11=Final Artwork Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -1016,7 +1146,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=OPABRKEO|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1,16777220~1,16777221~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=[L5] GND 2.gbr|UserLayerName.Caption1=[L3] SIGNAL.gbr|UserLayerName.Caption2=[L2] GND.gbr|UserLayerName.Caption3=[L1] TOP.gbr|UserLayerName.Caption4=[L6] BOTTOM.gbr|UserLayerName.Caption5=[L4] POWER.gbr|UserLayerName.Count=6|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777220|UserLayerName.Layer2=16777218|UserLayerName.Layer3=16777217|UserLayerName.Layer4=16842751|UserLayerName.Layer5=16777221|DocumentPath=D:\1_Altium_Project\10_CAM_V121\01_DESIGN\CAM_SEN_V121.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=OPABRKEO|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1,16777220~1,16777221~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=[L5] GND 2.gbr|UserLayerName.Caption1=[L3] SIGNAL.gbr|UserLayerName.Caption2=[L2] GND.gbr|UserLayerName.Caption3=[L1] TOP.gbr|UserLayerName.Caption4=[L6] BOTTOM.gbr|UserLayerName.Caption5=[L4] POWER.gbr|UserLayerName.Count=6|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777220|UserLayerName.Layer2=16777218|UserLayerName.Layer3=16777217|UserLayerName.Layer4=16842751|UserLayerName.Layer5=16777221|DocumentPath=D:\1_Altium_Project\18_CAM_V130\SpaceLiin_CAM_V1.0.2_HW\01_DESIGN\CAM_SEN_V130.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1210,6 +1340,36 @@ OutputName12=Export STEP
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
