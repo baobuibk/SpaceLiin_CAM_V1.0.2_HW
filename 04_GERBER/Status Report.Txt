@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CAM_v130.PrjPcb]
+   Generated File[CAM_SEN_V130_Legend_Top.gbr]
+   Generated File[CAM_SEN_V130_Paste_Top.gbr]
+   Generated File[CAM_SEN_V130_Soldermask_Top.gbr]
+   Generated File[[L1] TOP.gbr]
+   Generated File[[L2] GND.gbr]
+   Generated File[[L3] SIGNAL.gbr]
+   Generated File[[L4] POWER.gbr]
+   Generated File[[L5] GND 2.gbr]
+   Generated File[[L6] BOTTOM.gbr]
+   Generated File[CAM_SEN_V130_Soldermask_Bot.gbr]
+   Generated File[CAM_SEN_V130_Paste_Bot.gbr]
+   Generated File[CAM_SEN_V130_Legend_Bot.gbr]
+   Generated File[CAM_SEN_V130_Keep-out.gbr]
+   Generated File[CAM_SEN_V130_Pads_Top.gbr]
+   Generated File[CAM_SEN_V130_Pads_Bot.gbr]
+   Generated File[CAM_SEN_V130_Drawing_1.gbr]
+   Generated File[CAM_SEN_V130_Drillmap_1.gbr]
+   Generated File[CAM_SEN_V130_Profile.gbr]
+   Generated File[CAM_SEN_V130.EXTREP]
+   Generated File[CAM_SEN_V130.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 11:37:02 AM On 2/8/2026
