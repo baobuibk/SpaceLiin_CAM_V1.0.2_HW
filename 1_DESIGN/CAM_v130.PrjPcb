@@ -39,7 +39,7 @@ LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=2
-CrossRefLocationStyle=1
+CrossRefLocationStyle=0
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -662,22 +662,26 @@ DocumentPath=Project Outputs for CAM_v121\Design Rule Check - CAM_SEN_V121.html
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
+DocumentPath=Project Outputs for CAM_v130\Design Rule Check - CAM_SEN_V130.html
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for CAM_v101\Pick Place for CAM_SEN_V101.csv
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Outputs for CAM_v120\Pick Place for CAM_SEN_V120.csv
+DocumentPath=Project Outputs for CAM_v101\Pick Place for CAM_SEN_V101.csv
 DItemRevisionGUID=
 
 [GeneratedDocument107]
+DocumentPath=Project Outputs for CAM_v120\Pick Place for CAM_SEN_V120.csv
+DItemRevisionGUID=
+
+[GeneratedDocument108]
 DocumentPath=Project Outputs for CAM_v121\Pick Place for CAM_SEN_V121.csv
 DItemRevisionGUID=
 
@@ -1369,15 +1373,6 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
-Type151=1
-Type152=1
-Type153=1
-Type154=1
-Type155=1
-Type156=1
-Type157=1
-Type158=1
-Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1461,12 +1456,6 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
-Type82=1
-Type83=1
-Type84=1
-Type85=1
-Type86=1
-Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1623,15 +1612,6 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
-Type155=0
-Type156=0
-Type157=0
-Type158=0
-Type159=0
-Type160=0
-Type161=0
-Type162=1
-Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
