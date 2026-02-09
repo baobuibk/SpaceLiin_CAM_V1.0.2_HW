@@ -2,38 +2,14 @@
 FileName = CAM_SEN_V130.GBR
 AutoAperture = True
 *************************************************************
-Generating : [L3] SIGNAL
-      File : [L3] SIGNAL.gbr
+Generating : Keep-Out Layer
+      File : CAM_SEN_V130_Keep-out.gbr
 
-    Adding Layer      : [L3] SIGNAL
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D11
-    D48
     D49
-    D51
-    D53
-    D54
-    D55
-    D56
-    D57
-*************************************************************
-
-*************************************************************
-Generating : [L5] GND_2
-      File : [L5] GND 2.gbr
-
-    Adding Layer      : [L5] GND_2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D54
-    D55
 *************************************************************
 
 *************************************************************
@@ -49,29 +25,6 @@ Generating : Bottom Paste
 
 Used DCodes :
     D58
-*************************************************************
-
-*************************************************************
-Generating : [L6] BOTTOM
-      File : [L6] BOTTOM.gbr
-
-    Adding Layer      : [L6] BOTTOM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D46
-    D48
-    D49
-    D51
-    D52
-    D53
-    D54
-    D55
-    D58
-    D59
 *************************************************************
 
 *************************************************************
@@ -108,93 +61,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : [L4] POWER
-      File : [L4] POWER.gbr
+Generating : Bottom Solder
+      File : CAM_SEN_V130_Soldermask_Bot.gbr
 
-    Adding Layer      : [L4] POWER
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D48
-    D49
-    D50
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : CAM_SEN_V130_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D51
-*************************************************************
-
-*************************************************************
-Generating : [L2] GND_1
-      File : [L2] GND.gbr
-
-    Adding Layer      : [L2] GND_1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : [L1] TOP
-      File : [L1] TOP.gbr
-
-    Adding Layer      : [L1] TOP
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D43
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : CAM_SEN_V130_Pads_Bot.gbr
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : [L6] BOTTOM
 
@@ -202,68 +72,10 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D54
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : CAM_SEN_V130_Pads_Top.gbr
-
-    Adding Layer      : [L1] TOP
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D43
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : CAM_SEN_V130_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : CAM_SEN_V130_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D51
-    D52
-    D62
+    D44
+    D45
+    D60
+    D61
 *************************************************************
 
 *************************************************************
@@ -303,10 +115,67 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : CAM_SEN_V130_Soldermask_Bot.gbr
+Generating : Bottom Overlay
+      File : CAM_SEN_V130_Legend_Bot.gbr
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D49
+    D51
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CAM_SEN_V130_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : CAM_SEN_V130_Pads_Top.gbr
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D43
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : CAM_SEN_V130_Pads_Bot.gbr
 
     Adding Layer      : [L6] BOTTOM
 
@@ -314,10 +183,142 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D44
-    D45
-    D60
-    D61
+    D54
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : [L6] BOTTOM
+      File : [L6] BOTTOM.gbr
+
+    Adding Layer      : [L6] BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D46
+    D48
+    D49
+    D50
+    D51
+    D53
+    D54
+    D55
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : [L5] GND_2
+      File : [L5] GND 2.gbr
+
+    Adding Layer      : [L5] GND_2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : [L4] POWER
+      File : [L4] POWER.gbr
+
+    Adding Layer      : [L4] POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D50
+    D52
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : [L3] SIGNAL
+      File : [L3] SIGNAL.gbr
+
+    Adding Layer      : [L3] SIGNAL
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D48
+    D49
+    D50
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : [L2] GND_1
+      File : [L2] GND.gbr
+
+    Adding Layer      : [L2] GND_1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : [L1] TOP
+      File : [L1] TOP.gbr
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D43
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
 *************************************************************
 
 *************************************************************
